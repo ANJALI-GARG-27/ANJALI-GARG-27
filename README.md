@@ -15,7 +15,6 @@
 - Structured DSA practice in Python
 - Strengthening core fundamentals
 - Improving coding speed & logic clarity
-- Building disciplined GitHub consistency
 
 ---
 
