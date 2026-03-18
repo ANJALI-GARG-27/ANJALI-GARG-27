@@ -34,7 +34,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/n8n-flowise-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/flowise-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Pinecone-Vector_DB-00B4D8?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Cohere-Embeddings-7B2FBE?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Groq-LLM-FF6B35?style=for-the-badge" />
