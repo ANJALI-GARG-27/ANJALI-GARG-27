@@ -16,25 +16,25 @@
 
 ## 🤖 What I'm Building
 
-> Engineering an **AI-powered Optimal Insurance Advisor Agent** using **n8n** — a multi-tool agentic system with RAG and live web search. Also built a **Voice AI Assistant** trained on my own knowledge base using ElevenLabs.
+> Engineering an **AI-powered Optimal Insurance Advisor Agent** using **n8n** — a multi-tool agentic system with RAG and live web search. Also built a **Voice AI Assistant** trained on a real estate knowledge base using ElevenLabs.
 
 ---
 
-### 🔁 Live Workflows & Projects
+### 🔁 Projects
 
 | Project | Description | Stack |
 |---|---|---|
 | 📥 **RAG Ingestion Pipeline** | Downloads XLS from Google Drive → Extracts & chunks → Embeds via Cohere → Stores in Pinecone | n8n · Google Drive · Cohere · Pinecone |
 | 💬 **AI Insurance Advisor Agent** | Chat-triggered AI agent with RAG + live web search powered by Groq LLM | n8n · Groq · Pinecone · Tavily · Cohere |
-| 🎙️ **Voice AI Assistant** | Conversational voice agent trained on my personal knowledge base — answers questions about me in my own voice | ElevenLabs · RAG · Knowledge Base |
+| 🎙️ **Voice AI Assistant** | Conversational voice agent trained on a real estate knowledge base — answers in Hinglish mode | ElevenLabs · RAG · Knowledge Base |
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Languages & Core
+### 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,javascript,git,github,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,javascript,git,github" />
 </p>
 
 ### 🤖 AI / LLM / Agents
@@ -52,48 +52,35 @@
   <img src="https://img.shields.io/badge/Flowise-Agent_Builder-EA4B71?style=for-the-badge" />
 </p>
 
-### 🌐 Backend & Web Scraping
+### 🌐 Backend & Scraping
 <p align="center">
   <img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Playwright-Browser_Automation-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/BeautifulSoup-Web_Scraping-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/BeautifulSoup-Scraping-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-### 🗄️ Vector DB & Storage
+### 🗄️ Databases
 <p align="center">
+  <img src="https://img.shields.io/badge/MySQL-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Relational_DB-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Pinecone-Vector_DB-00B4D8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Google_Drive-Storage-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
 </p>
 
 ### 🎨 Frontend / UI
 <p align="center">
-  <img src="https://img.shields.io/badge/React-UI-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TailwindCSS-Styling-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-Markup-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
 ---
 
 ## ⚡ Currently Working On
 
-- 🤖 **AI Insurance Advisor Agent** — n8n agentic workflow with RAG + live search
-- 🎙️ **Voice AI Assistant** — ElevenLabs agent trained on my own knowledge base
-- 🌐 **Web Scraping Projects** — FastAPI + Playwright + BeautifulSoup pipelines
+- 💬 **AI Insurance Advisor Agent** — n8n agentic workflow with RAG + live search
 - 📐 **DSA practice in Python** — structured prep for placements
 - 🎯 Preparing for **TCS NQT**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ANJALI-GARG-27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ANJALI-GARG-27&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANJALI-GARG-27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7" width="40%" />
-</p>
 
 ---
 
@@ -110,6 +97,7 @@
 </p>
 
 ---
+
 <p align="center">
   <i>✨ From placement prep to building voice AI agents — one workflow at a time.</i>
 </p>
