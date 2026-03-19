@@ -3,7 +3,7 @@
 # Hey, I'm Anjali Garg 👋
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=AI+%26+Automation+Builder+%F0%9F%A4%96;n8n+Workflow+Engineer;Claude+MCP+%7C+Agentic+AI+Builder;Python+%7C+DSA+%7C+Problem+Solver;Building+Intelligent+Agents+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=AI+%26+Automation+Builder+%F0%9F%A4%96;n8n+Workflow+Engineer;Voice+AI+%7C+RAG+%7C+Agent+Builder;Python+%7C+DSA+%7C+Problem+Solver;Building+Intelligent+Agents+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p>
@@ -16,7 +16,7 @@
 
 ## 🤖 What I'm Building
 
-> Engineering an **AI-powered Optimal Insurance Advisor Agent** using **n8n** — a multi-tool agentic system with RAG, live web search, and MCP integrations. Also building **AI-powered apps with Claude API** and connecting real-world tools via **MCP servers**.
+> Engineering an **AI-powered Optimal Insurance Advisor Agent** using **n8n** — a multi-tool agentic system with RAG and live web search. Also built a **Voice AI Assistant** trained on my own knowledge base using ElevenLabs.
 
 ---
 
@@ -26,9 +26,7 @@
 |---|---|---|
 | 📥 **RAG Ingestion Pipeline** | Downloads XLS from Google Drive → Extracts & chunks → Embeds via Cohere → Stores in Pinecone | n8n · Google Drive · Cohere · Pinecone |
 | 💬 **AI Insurance Advisor Agent** | Chat-triggered AI agent with RAG + live web search powered by Groq LLM | n8n · Groq · Pinecone · Tavily · Cohere |
-| 🧠 **Claude-in-Claude Apps** | AI-powered artifacts using Anthropic API with dynamic UI | Claude API · React · JavaScript |
-| 📅 **MCP-Connected AI Assistant** | Claude integrated with Gmail, Google Calendar & n8n via MCP servers | Claude · MCP · Gmail · GCal · n8n |
-| 🗺️ **Places & Maps Tool** | Location-aware AI responses with Google Places integration | Claude · Places API · Maps |
+| 🎙️ **Voice AI Assistant** | Conversational voice agent trained on my personal knowledge base — answers questions about me in my own voice | ElevenLabs · RAG · Knowledge Base |
 
 ---
 
@@ -45,27 +43,26 @@
   <img src="https://img.shields.io/badge/Groq-LLM-FF6B35?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Cohere-Embeddings-7B2FBE?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Tavily-Web_Search-22C55E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenAI-API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/ElevenLabs-Voice_AI-000000?style=for-the-badge&logoColor=white" />
 </p>
 
 ### 🔁 Automation & Workflow
 <p align="center">
   <img src="https://img.shields.io/badge/n8n-Workflow_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Flowise-Agent_Builder-EA4B71?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-0EA5E9?style=for-the-badge" />
+</p>
+
+### 🌐 Backend & Web Scraping
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-Browser_Automation-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/BeautifulSoup-Web_Scraping-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ### 🗄️ Vector DB & Storage
 <p align="center">
   <img src="https://img.shields.io/badge/Pinecone-Vector_DB-00B4D8?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Google_Drive-Storage-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
-</p>
-
-### 🔗 MCP Integrations
-<p align="center">
-  <img src="https://img.shields.io/badge/Gmail_MCP-Connected-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Calendar_MCP-Connected-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n_MCP-Connected-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
 ### 🎨 Frontend / UI
@@ -80,8 +77,8 @@
 ## ⚡ Currently Working On
 
 - 🤖 **AI Insurance Advisor Agent** — n8n agentic workflow with RAG + live search
-- 🔌 **MCP Server Integrations** — connecting Claude to Gmail, Calendar, n8n & more
-- 🧠 **Claude API powered apps** — building AI-in-AI interactive artifacts
+- 🎙️ **Voice AI Assistant** — ElevenLabs agent trained on my own knowledge base
+- 🌐 **Web Scraping Projects** — FastAPI + Playwright + BeautifulSoup pipelines
 - 📐 **DSA practice in Python** — structured prep for placements
 - 🎯 Preparing for **TCS NQT**
 
@@ -113,7 +110,6 @@
 </p>
 
 ---
-
 <p align="center">
-  <i>✨ From placement prep to building AI agents with MCP — one workflow at a time.</i>
+  <i>✨ From placement prep to building voice AI agents — one workflow at a time.</i>
 </p>
