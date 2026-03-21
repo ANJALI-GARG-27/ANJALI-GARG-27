@@ -80,7 +80,6 @@
 
 - 💬 **AI Insurance Advisor Agent** — n8n agentic workflow with RAG + live search
 - 📐 **DSA practice in Python** — structured prep for placements
-- 🎯 Preparing for **TCS NQT**
 
 ---
 
