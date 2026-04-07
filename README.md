@@ -25,7 +25,7 @@
 | Project | Description | Stack |
 |---|---|---|
 | 📥 **RAG Ingestion Pipeline** | Downloads XLS from Google Drive → Extracts & chunks → Embeds via Cohere → Stores in Pinecone | n8n · Google Drive · Cohere · Pinecone |
-| 💬 **AI Insurance Advisor Agent** | Chat-triggered AI agent with RAG + live web search powered by Groq LLM | n8n · Groq · Pinecone · Tavily · Cohere |
+| 💬 **AI Insurance Advisor Agent** | Chat-triggered AI agent with RAG + live web search powered by Groq LLM | n8n · Groq · Tavily |
 | 🎙️ **Voice AI Assistant** | Conversational voice agent trained on a real estate knowledge base — answers in Hinglish mode | ElevenLabs · RAG · Knowledge Base |
 
 ---
