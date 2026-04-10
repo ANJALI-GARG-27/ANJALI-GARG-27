@@ -49,7 +49,6 @@
 ### 🔁 Automation & Workflow
 <p align="center">
   <img src="https://img.shields.io/badge/n8n-Workflow_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flowise-Agent_Builder-EA4B71?style=for-the-badge" />
 </p>
 
 ### 🌐 Backend & Scraping
