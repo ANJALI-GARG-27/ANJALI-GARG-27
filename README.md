@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Anjali Garg 👋
+# Hey, I'm Anjali 👋
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=AI+%26+Automation+Builder+%F0%9F%A4%96;n8n+Workflow+Engineer;Voice+AI+%7C+RAG+%7C+Agent+Builder;Python+%7C+DSA+%7C+Problem+Solver;Building+Intelligent+Agents+%F0%9F%9A%80" alt="Typing SVG" />
