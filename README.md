@@ -16,7 +16,7 @@
 
 ## 🤖 Currently working On
 
-> Engineering an **AI-powered Optimal Insurance Advisor Bot** using **n8n** — a multi-tool agentic system with RAG and live web search. Also built a **Voice AI Assistant** trained on a real estate knowledge base using ElevenLabs.
+> Automating tasks for an upcoming educational online webinar for career growth at flexible hours.
 
 ---
 
