@@ -55,6 +55,15 @@
   <img src="https://img.shields.io/badge/ElevenLabs-Voice_AI-000000?style=for-the-badge&logoColor=white" />
 </p>
 
+### 🤖 Machine Learning & Data Science
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+</p>
+
 ### 🗄️ Databases & Vector Stores
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
