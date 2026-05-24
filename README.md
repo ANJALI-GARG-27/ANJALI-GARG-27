@@ -28,9 +28,7 @@
 | Project / Workflow | Description | Stack |
 |---|---|---|
 | 🏢 **Zoho CRM Portals & Workflows** | Built dual-portal access and automated business-logic rules for an insurance and real estate consultancy. | Zoho CRM · Portal Management · Workflow Rules |
-| 📞 **CPaaS & Communication Bridges** | Local automation workflows integrating **Twilio** and **WhatsApp Bridges** for triggered user alerts and messaging logic. | n8n · Twilio · WhatsApp Business API |
 | 🎙️ **Voice AI Assistant** | Conversational voice agent trained on a real estate knowledge base — features a localized **Hinglish** conversational mode. | ElevenLabs · RAG · Knowledge Base |
-| 📥 **RAG Ingestion Pipeline** | Local automated pipeline: Downloads XLS from Google Drive → Extracts & chunks → Embeds via Cohere → Stores in Pinecone. | n8n · Cohere · Pinecone |
 | 💬 **AI Insurance Advisor Agent** | Chat-triggered AI agent logic utilizing RAG + live web search powered by Groq LLM. | n8n · Groq · Tavily |
 
 ---
@@ -48,13 +46,6 @@
   <img src="https://img.shields.io/badge/CRM-Operations_&_Automation-00B4D8?style=for-the-badge" />
 </p>
 
-### 🔁 Automation & CPaaS (Communication)
-<p align="center">
-  <img src="https://img.shields.io/badge/n8n-Workflow_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Twilio-CPaaS-F22F46?style=for-the-badge&logo=twilio&logoColor=white" />
-  <img src="https://img.shields.io/badge/WhatsApp_Bridge-Messaging-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</p>
-
 ### 🤖 AI / LLM / Agents
 <p align="center">
   <img src="https://img.shields.io/badge/Claude_API-Anthropic-7B2FBE?style=for-the-badge&logo=anthropic&logoColor=white" />
@@ -64,17 +55,9 @@
   <img src="https://img.shields.io/badge/ElevenLabs-Voice_AI-000000?style=for-the-badge&logoColor=white" />
 </p>
 
-### 🌐 Backend & Scraping
-<p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright-Browser_Automation-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/BeautifulSoup-Scraping-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
 ### 🗄️ Databases & Vector Stores
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-Relational_DB-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Pinecone-Vector_DB-00B4D8?style=for-the-badge" />
 </p>
